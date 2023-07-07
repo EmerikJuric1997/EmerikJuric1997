@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **emerik.juric1@gmail.com**
 
-- ⚡ Fun fact **I am also a video editor and graphic designer!**
+- ⚡ Fun fact **I am also a video editor and a graphic designer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
