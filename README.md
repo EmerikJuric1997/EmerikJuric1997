@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Croatia</h3>
 
 
-- 💬 Ask me about **vue, firebase, ionic, electron**
+- 💬 Ask me about **React, Vue, firebase, ionic || electron**
 
 - 📫 How to reach me **emerik.juric1@gmail.com**
 
